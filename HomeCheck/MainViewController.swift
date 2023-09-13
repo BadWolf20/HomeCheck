@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  HomeCheck
-//
-//  Created by Roman on 01.09.2023.
-//
-
 import UIKit
 
 class MainViewController: UIViewController {
@@ -18,7 +11,9 @@ class MainViewController: UIViewController {
         view.addSubview(simpleButton)
         // Do any additional setup after loading the view.
     }
-
-
 }
 
+func generateRandomNumber() {
+    let randomNumber = Int.random(in: 1...100)
+    print("Случайное число: \(randomNumber)")
+}
