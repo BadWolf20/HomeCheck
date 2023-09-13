@@ -12,3 +12,8 @@ class MainViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 }
+
+func generateRandomNumber() {
+    let randomNumber = Int.random(in: 1...100)
+    print("Случайное число: \(randomNumber)")
+}
