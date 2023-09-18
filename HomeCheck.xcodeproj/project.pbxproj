@@ -13,8 +13,12 @@
 		302161D02AA23A3F00213F2C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302161CE2AA23A3F00213F2C /* Main.storyboard */; };
 		302161D22AA23A4000213F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302161D12AA23A4000213F2C /* Assets.xcassets */; };
 		302161D52AA23A4000213F2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302161D32AA23A4000213F2C /* LaunchScreen.storyboard */; };
+
+		30B7B1962AA611F500AE0FB9 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B7B1952AA611F500AE0FB9 /* MainTabBarController.swift */; };
+
 		6E427B8C2AA605AC003772EE /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E427B8B2AA605AC003772EE /* NewViewController.swift */; };
 		6E427B8E2AA60607003772EE /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E427B8D2AA60607003772EE /* Post.swift */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +30,12 @@
 		302161D12AA23A4000213F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		302161D42AA23A4000213F2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		302161D62AA23A4000213F2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+
+		30B7B1952AA611F500AE0FB9 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+
 		6E427B8B2AA605AC003772EE /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		6E427B8D2AA60607003772EE /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +71,12 @@
 				302161C82AA23A3F00213F2C /* AppDelegate.swift */,
 				302161CA2AA23A3F00213F2C /* SceneDelegate.swift */,
 				302161CC2AA23A3F00213F2C /* MainViewController.swift */,
+
+				30B7B1952AA611F500AE0FB9 /* MainTabBarController.swift */,
+
 				6E427B8B2AA605AC003772EE /* NewViewController.swift */,
 				6E427B8D2AA60607003772EE /* Post.swift */,
+
 				302161CE2AA23A3F00213F2C /* Main.storyboard */,
 				302161D12AA23A4000213F2C /* Assets.xcassets */,
 				302161D32AA23A4000213F2C /* LaunchScreen.storyboard */,
@@ -150,8 +162,12 @@
 				6C0F9DBE2AB2252800B60DC4 /* GradingStudents.swift in Sources */,
 				302161CD2AA23A3F00213F2C /* MainViewController.swift in Sources */,
 				302161C92AA23A3F00213F2C /* AppDelegate.swift in Sources */,
+
+				30B7B1962AA611F500AE0FB9 /* MainTabBarController.swift in Sources */,
+
 				6C0F9DBC2AB224C800B60DC4 /* SaveThePrisoner.swift in Sources */,
 				6C0F9DC02AB2259300B60DC4 /* HurdleRace.swift in Sources */,
+
 				302161CB2AA23A3F00213F2C /* SceneDelegate.swift in Sources */,
 				6E427B8C2AA605AC003772EE /* NewViewController.swift in Sources */,
 				6E427B8E2AA60607003772EE /* Post.swift in Sources */,
