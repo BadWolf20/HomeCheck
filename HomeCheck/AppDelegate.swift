@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  HomeCheck
-//
-//  Created by Roman on 01.09.2023.
-//
-
 import UIKit
 
 @main
@@ -21,9 +14,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
-        
+
     }
-
-
 }
-
